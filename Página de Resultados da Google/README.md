@@ -1,1 +1,0 @@
-Página clone de resultados da google..
